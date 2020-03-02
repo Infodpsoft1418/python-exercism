@@ -3,15 +3,17 @@ Python Exercism
 ===============
 
 .. image:: https://img.shields.io/github/license/roghu/python-exercism   :alt: GitHub
-<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+.. image:: https://img.shields.io/badge/%20style-black-00000.svg :alt: Code style: Black
 
 Exercism exercises in Python 3.8.
 
 Prerequisites
 =============
-* `Poetry<https://python-poetry.org/docs/>`_
+* Poetry_
 * Python 3.8
+
+.. _Poetry: https://python-poetry.org/docs/
 
 License
 =======
-This resository uses the MIT License.
+This respository uses the MIT License.
