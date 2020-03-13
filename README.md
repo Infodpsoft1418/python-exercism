@@ -1,8 +1,8 @@
 # Python Exercism
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/roghu/python-exercism/Run%20Tests)
 ![GitHub](https://img.shields.io/github/license/roghu/python-exercism)
-![Code style Black](https://img.shields.io/badge/Code Style-Black-000000)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/roghu/python-exercism/Run Tests)
+![Code style Black](https://img.shields.io/badge/Code%20Style-Black-000000)
 
 Exercism exercises in Python 3.8.
 
